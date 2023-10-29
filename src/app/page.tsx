@@ -6,7 +6,7 @@ export default function Home() {
       <div className="bg-gradient-to-r from-yellow-50 to-blue-200 min-h-screen flex flex-col items-center justify-center">
         <div className="card w-96 bg-primary text-primary-content">
           <div className="card-body">
-            <h2 className="card-title">Do You Have Any Idea?</h2>
+            <h2 className="card-title">Do You Have Any New Idea?</h2>
             <p>tell us about that...</p>
             <div className="card-actions justify-end">
               <Link href="/user">
